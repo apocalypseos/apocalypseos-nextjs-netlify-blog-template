@@ -15,8 +15,8 @@ export default function Index() {
           <h1>
             Apocalypseos<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <span className="handle">@apocalypseos</span>
+          <h2>Unveiling the imperialist + unholy war animating US domestic + foreign policy, predatory capitalism, corruption, MSM propaganda + Anglo-American banking mafia.</h2>
           <SocialList />
         </div>
       </div>
@@ -27,6 +27,7 @@ export default function Index() {
           justify-content: center;
           flex: 1 1 auto;
           padding: 0 1.5rem;
+          background: hotpink;
         }
         h1 {
           font-size: 2.5rem;
