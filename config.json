@@ -13,7 +13,7 @@
       "keyword": "React"
     }
   ],
-  "posts_per_page": 5,
-  "twitter_account": "@my-account",
+  "posts_per_page": 15,
+  "twitter_account": "@apocalypseos",
   "github_account": "wutali"
 }
